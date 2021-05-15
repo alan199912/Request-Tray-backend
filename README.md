@@ -1,6 +1,12 @@
 # Bandeja de solicitudes
 Es una app que permite aprobar creditos.
 
+- El proyecto esta hecho con [Django](https://www.djangoproject.com/)
+- [MySQL](https://www.mysql.com/) de base de datos
+
+# Para correr el proyecto
+se necesita utilizar el script "python manage.py runserver"
+
 # Componentes
   -  DashboardComponent
      - pagina principal donde apareceran todas las solicitudes
