@@ -7,7 +7,7 @@ Es una app que permite aprobar creditos.
 # Para correr el proyecto
 se necesita utilizar el script "python manage.py runserver"
 
-# Componentes
+# Componentes (front)
   -  DashboardComponent
      - pagina principal donde apareceran todas las solicitudes
      - ![image](https://user-images.githubusercontent.com/40763553/118379895-7c5ad380-b5b4-11eb-9354-e0e308d1dbdb.png)
